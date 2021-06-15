@@ -63,7 +63,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/fire_world_entertainment"
+                        "🔊 Channel", url="https://t.me/Heroic_Domain"
                     )
                 ],    
                 [    
@@ -109,7 +109,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/fire_world_entertainment"
+                        "🔊 Channel", url="https://t.me/Heroic_Domain"
                     )
                 ]
             ]
